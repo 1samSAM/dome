@@ -1,2 +1,3 @@
 # dome
-for studing and understanding github
+for studing and understanding github.
+Author SAM BABu
